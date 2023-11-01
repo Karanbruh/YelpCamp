@@ -1,6 +1,6 @@
 # YelpCamp - Campground Directory Website
 
-YelpCamp is a dynamic and interactive campground directory website designed to provide users with a comprehensive platform to explore, discover, and share their favorite camping destinations across the USA. This project showcases my proficiency in full-stack web development, utilizing MongoDB, Node.js, Express.js, Bootstrap, and Mapbox GL for a feature-rich web application with authentication and authorization capabilities.
+YelpCamp is a dynamic and interactive campground directory website designed to provide users with a comprehensive platform to explore, discover, and share their favorite camping destinations across the India. This project showcases my proficiency in full-stack web development, utilizing MongoDB, Node.js, Express.js, Bootstrap, and Mapbox GL for a feature-rich web application with authentication and authorization capabilities.
 
 ## Key Features
 
